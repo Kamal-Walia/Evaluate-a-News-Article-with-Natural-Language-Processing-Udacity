@@ -33,7 +33,7 @@
         "jest": "^26.0.1",
         "mini-css-extract-plugin": "^0.8.0",
         "node-mocks-http": "^1.7.6",
-        "optimize-css-assets-webpack-plugin": "^5.0.3",
+        "optimize-css-assets-webpack-plugin": "^6.0.1",
         "supertest": "^4.0.2",
         "webpack-bundle-analyzer": "^3.4.1",
         "webpack-dev-server": "^4.11.1",
